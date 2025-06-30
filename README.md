@@ -6,7 +6,9 @@ This repository provides a single `app.php` script that allows you to use a stan
 
 
 ## Note
+
 CPU & Latency: Streaming and header processing can be CPU-intensive. On low-powered hosts you may see increased ping and higher latency.
+
 ---
 
 ## Features
